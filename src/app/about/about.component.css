@@ -1,0 +1,33 @@
+.container {
+    max-width: 1000px;
+    border: 1px solid black;
+    margin-top: 10%;
+    padding: 20px;
+}
+
+.line {
+    max-width: 170px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 5px;
+    font-size: 60px;
+}
+
+p {
+    padding: 15px;
+    text-align: center;
+}
+
+a {
+    color: blueviolet;
+    font-size: 17px;
+    padding-top: 20px;
+}
+
+a:hover {
+    color: blue;
+}

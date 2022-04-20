@@ -1,0 +1,55 @@
+.intro {
+    max-width: 1920px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+img {
+    width: 100%;
+    height: 500px;
+    -o-object-fit: contain;
+    object-fit: cover;
+    object-position: 0 -190px;
+    mix-blend-mode: multiply;
+}
+
+h1 {
+    float: left;
+    margin-top: -400px;
+    color: white;
+    margin-left: 65px;
+    mix-blend-mode: screen;
+    font-size: 45px;
+}
+
+#btnPrimary {
+    float: left;
+    margin-top: -210px;
+    mix-blend-mode: hard-light;
+    font-size: 20px;
+    margin-left: 65px;
+}
+
+.card-header {
+    text-align: center;
+    font-size: 14px;
+}
+
+.card {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.section2 {
+    margin-top: 30px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#floatingcard {
+    float: right;
+    margin-right: 85px;
+    margin-top: -435px;
+}
